@@ -6,4 +6,4 @@ Ostatni wpis.
 Dobranoc.
 Zmiana do wrzuty nr 7
 ZMiana do 8
-9
+9 10
