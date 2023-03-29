@@ -4,4 +4,4 @@ Zmiana tekstu do cwiczenia.
 Modyfikacja 2
 Ostatni wpis.
 Dobranoc.
-Zmiana do w
+Zmiana do wrzuty nr 7
