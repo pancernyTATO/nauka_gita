@@ -7,3 +7,4 @@ Dobranoc.
 Zmiana do wrzuty nr 7
 ZMiana do 8
  11
+NOWY DZIEN, NOWY JA
