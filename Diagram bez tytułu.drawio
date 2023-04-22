@@ -1,14 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T08:36:36.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="QByVN17Ttg_OFzR4ecvQ" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T08:47:59.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="z4ZBYIAmk-WS8IKvtlBi" version="21.2.1" type="github">
   <diagram name="Strona-1" id="wXcndjXiBrc1prwJTaua">
-    <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4HXkMywtWw89xqYueD38-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="220" width="30" height="60" as="geometry" />
+        <mxCell id="4HXkMywtWw89xqYueD38-3" value="Proces mojej dalszej kariery w Testingu" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-80" width="1080" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="4HXkMywtWw89xqYueD38-2" value="YO!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="354" y="140" width="120" height="80" as="geometry" />
+        <mxCell id="4HXkMywtWw89xqYueD38-4" value="Nauka" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="4HXkMywtWw89xqYueD38-3">
+          <mxGeometry y="20" width="1080" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4HXkMywtWw89xqYueD38-4" source="4HXkMywtWw89xqYueD38-7" target="4HXkMywtWw89xqYueD38-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-7" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="4HXkMywtWw89xqYueD38-4">
+          <mxGeometry x="40" y="20" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-13" value="Praktyka podczas studiów" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4HXkMywtWw89xqYueD38-4">
+          <mxGeometry x="120" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-5" value="Przygotowanie CV" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="4HXkMywtWw89xqYueD38-3">
+          <mxGeometry y="140" width="1080" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4HXkMywtWw89xqYueD38-5" source="4HXkMywtWw89xqYueD38-14" target="4HXkMywtWw89xqYueD38-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-14" value="Nauczyć się GIT,&lt;br&gt;zrobić własne repo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4HXkMywtWw89xqYueD38-5">
+          <mxGeometry x="170" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-15" value="Przygotować CV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4HXkMywtWw89xqYueD38-5">
+          <mxGeometry x="320" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-6" value="Rekrutacja" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="4HXkMywtWw89xqYueD38-3">
+          <mxGeometry y="260" width="1080" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-12" value="Koniec" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4HXkMywtWw89xqYueD38-6">
+          <mxGeometry x="710" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4HXkMywtWw89xqYueD38-6" source="4HXkMywtWw89xqYueD38-16" target="4HXkMywtWw89xqYueD38-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-16" value="Przygotować CV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4HXkMywtWw89xqYueD38-6">
+          <mxGeometry x="400" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4HXkMywtWw89xqYueD38-3" source="4HXkMywtWw89xqYueD38-13" target="4HXkMywtWw89xqYueD38-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4HXkMywtWw89xqYueD38-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4HXkMywtWw89xqYueD38-3" source="4HXkMywtWw89xqYueD38-15" target="4HXkMywtWw89xqYueD38-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
